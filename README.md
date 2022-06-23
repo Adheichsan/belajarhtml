@@ -1,1 +1,1 @@
-# Hanya sekedar belajar hehe
+# Code dasar-dasar kok :)
